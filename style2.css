@@ -1,0 +1,41 @@
+html
+{
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+div
+{
+    text-decoration: none;
+    color: #fff;
+    font-family: system-ui;
+}
+
+.txt
+{
+    text-align: center;
+    background-color: #111;
+    color: #fff;
+    border: none;
+    height: 20px;
+}
+
+.but
+{
+    border: none;
+    color: #fff;
+    background-color: #111;
+    width: 100px;
+    height: 20px;
+}
+
+.corbut
+{
+    border: none;
+    color: #fff;
+    background-color: #111;
+    width: 100px;
+    height: 20px;
+}
